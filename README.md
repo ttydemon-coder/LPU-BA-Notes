@@ -2,7 +2,7 @@
 
 [![Online Portal](https://img.shields.io/badge/Web_Portal-lpu--ba--notes.vercel.app-F15A24?style=for-the-badge&logo=vercel)](https://lpu-ba-notes.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-60_PDFs_Available-emerald.svg?style=for-the-badge)](#curated-materials-catalog)
+[![Status](https://img.shields.io/badge/Status-61_PDFs_Available-emerald.svg?style=for-the-badge)](#curated-materials-catalog)
 [![Degree](https://img.shields.io/badge/Degree-Bachelor_of_Arts_(B.A.)-orange.svg?style=for-the-badge)](https://www.lpude.in/programmes/arts/bachelor-of-arts.php)
 
 > **The comprehensive, free academic repository for Lovely Professional University (LPU) Distance Education students pursuing a Bachelor of Arts (B.A.) degree.**
@@ -47,7 +47,7 @@ LPU-BA-Notes/
 
 ---
 
-## 📑 Complete Catalog of Available PDFs (60 Total)
+## 📑 Complete Catalog of Available PDFs (61 Total)
 
 ### 🎓 Semester 1
 
@@ -142,6 +142,7 @@ LPU-BA-Notes/
 | :--- | :--- | :--- | :--- | :--- |
 | **English** | `DENG303` | Post-Colonial English Literature Notes (Part 1) | Study Notes | [View PDF](Semester-6/English/DENG303_Notes_Part1.pdf) |
 | **English** | `DENG303` | Post-Colonial English Literature Notes (Part 2) | Study Notes | [View PDF](Semester-6/English/DENG303_Notes_Part2.pdf) |
+| **Management** | `DMGT208` | Strategic Management & Business Policy Official University Book | Official Book | [View PDF](Semester-6/Management/DMGT208_Official_University_Book.pdf) |
 | **Management** | `DMGT208` | Strategic Management & Business Policy Notes | Study Notes | [View PDF](Semester-6/Management/DMGT208_Notes.pdf) |
 | **Punjabi** | `DPBI301` | Classical & Modern Poetry Complete Handwritten Notes | Handwritten | [View PDF](Semester-6/Punjabi/DPBI301_Handwritten_Notes.pdf) |
 | **Punjabi** | `DPBI301` | Classical & Modern Poetry Study Notes | Study Notes | [View PDF](Semester-6/Punjabi/DPBI301_Notes.pdf) |
@@ -155,7 +156,7 @@ LPU-BA-Notes/
 Click on any of the **[View PDF]** links in the tables above, then click the **Download raw file** button in the top-right corner of GitHub.
 
 ### Option 2: Clone the Entire Repository
-To download all 60 PDF study materials to your computer or phone at once:
+To download all 61 PDF study materials to your computer or phone at once:
 ```bash
 git clone https://github.com/ttydemon-coder/LPU-BA-Notes.git
 ```
