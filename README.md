@@ -2,7 +2,7 @@
 
 [![Online Portal](https://img.shields.io/badge/Web_Portal-lpu--ba--notes.vercel.app-F15A24?style=for-the-badge&logo=vercel)](https://lpu-ba-notes.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-61_PDFs_Available-emerald.svg?style=for-the-badge)](#curated-materials-catalog)
+[![Status](https://img.shields.io/badge/Status-56_PDFs_Available-emerald.svg?style=for-the-badge)](#curated-materials-catalog)
 [![Degree](https://img.shields.io/badge/Degree-Bachelor_of_Arts_(B.A.)-orange.svg?style=for-the-badge)](https://www.lpude.in/programmes/arts/bachelor-of-arts.php)
 
 > **The comprehensive, free academic repository for Lovely Professional University (LPU) Distance Education students pursuing a Bachelor of Arts (B.A.) degree.**
@@ -47,7 +47,7 @@ LPU-BA-Notes/
 
 ---
 
-## 📑 Complete Catalog of Available PDFs (61 Total)
+## 📑 Complete Catalog of Available PDFs (56 Total)
 
 ### 🎓 Semester 1
 
@@ -91,7 +91,7 @@ LPU-BA-Notes/
 | **English** | `DENG201` | English Literature - III Study Notes (Part 1) | Study Notes | [View PDF](Semester-3/English/DENG201_Notes_Part1.pdf) |
 | **English** | `DENG201` | English Literature - III Study Notes (Part 2) | Study Notes | [View PDF](Semester-3/English/DENG201_Notes_Part2.pdf) |
 | **English** | `DENG201` | English Literature - III Official Sample Papers | Sample Paper | [View PDF](Semester-3/English/DENG201_Sample_Papers.pdf) |
-| **English** | `DENG202` | Elective English (Poetry & Drama) SLM Book | Official Book | [View PDF](Semester-3/English/DENG202_Official_Book.pdf) |
+| **English** | `DENG202` | Elective English (Poetry & Drama) SLM Book | Official Book | [View PDF](Semester-3/English/DENG202_Official_University_Book.pdf) |
 | **English** | `DENG202` | Elective English (Poetry & Drama) Notes | Study Notes | [View PDF](Semester-3/English/DENG202_Notes.pdf) |
 | **Management** | `DMGT203` | Management Principles & OB Official Book PDF | Official Book | [View PDF](Semester-3/Management/DMGT203_Official_University_Book.pdf) |
 | **Management** | `DMGT203` | Management Principles & OB Complete Notes | Study Notes | [View PDF](Semester-3/Management/DMGT203_Notes.pdf) |
@@ -119,10 +119,7 @@ LPU-BA-Notes/
 
 | Subject | Course Code | Material Title | File Type | Direct Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **English** | `DENG202` | Elective English - V SLM Textbook | Official Book | [View PDF](Semester-5/English/DENG202_Official_Book.pdf) |
-| **English** | `DENG202` | Elective English - V Complete Revision Notes | Study Notes | [View PDF](Semester-5/English/DENG202_Notes.pdf) |
 | **English** | `DENG301` | English Core - III Official SLM Textbook | Official Book | [View PDF](Semester-5/English/DENG301_Official_University_Book.pdf) |
-| **English** | `DENG301` | English Core - III Detailed Notes (Part 1) | Study Notes | [View PDF](Semester-5/English/DENG301_Notes_Part1.pdf) |
 | **English** | `DENG301` | English Core - III Detailed Notes (Part 2) | Study Notes | [View PDF](Semester-5/English/DENG301_Notes_Part2.pdf) |
 | **English** | `DENG301` | English Core - III Comprehensive Notes | Study Notes | [View PDF](Semester-5/English/DENG301_Complete_Notes.pdf) |
 | **English** | `DENG301` | English Core - III Official Sample Papers | Sample Paper | [View PDF](Semester-5/English/DENG301_Sample_Papers.pdf) |
@@ -156,7 +153,7 @@ LPU-BA-Notes/
 Click on any of the **[View PDF]** links in the tables above, then click the **Download raw file** button in the top-right corner of GitHub.
 
 ### Option 2: Clone the Entire Repository
-To download all 61 PDF study materials to your computer or phone at once:
+To download all 56 PDF study materials to your computer or phone at once:
 ```bash
 git clone https://github.com/ttydemon-coder/LPU-BA-Notes.git
 ```
